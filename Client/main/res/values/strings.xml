@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure Chat</string>
+    <string name="select_user">Select User ID</string>
+    <string name="connect">Connect</string>
+    <string name="send">Send</string>
+    <string name="logout">Logout</string>
+    <string name="type_message">Type a message...</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting...</string>
+</resources>
